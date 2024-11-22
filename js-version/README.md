@@ -1,4 +1,4 @@
-# Simple API (JS-version)
+# Sample API (JS-version)
 This is the JavaScript version of the REST, GraphQL, and WebSocket servers.
 
 ## Installation and Usage
