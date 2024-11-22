@@ -1,0 +1,19 @@
+{
+  "name": "hopp-apis",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.1",
+    "graphql": "^16.9.0",
+    "graphql-http": "^1.22.2",
+    "ws": "^8.18.0"
+  }
+}
